@@ -7,4 +7,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="txLogin">35dp</dimen>
     <dimen name="login_regular_text">20sp</dimen>
+    <dimen name="et_form_padding">12dp</dimen>
 </resources>

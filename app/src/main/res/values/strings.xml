@@ -16,10 +16,19 @@
     <string name="App_test">Protopipo Mobijob Drawer</string>
     <string name="txLogin">Iniciar Sesion</string>
     <string name="fb_sign_in">CONECTARSE CON FACEBOOK</string>
-    <string name="user">Usuario</string>
     <string name="password">Contraseña</string>
     <string name="not_account">¿No tienes cuenta?</string>
     <string name="register_here">Regístrate aquí</string>
     <string name="login_bt">INICIAR SESION</string>
     <string name="skip">SALTAR</string>
+    <string name="register">Resgistro</string>
+    <string name="dni">CC #</string>
+    <string name="form_name">Nombre</string>
+    <string name="user">Usuario</string>
+    <string name="surname">Apellido</string>
+    <string name="mail">Mail</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="already_have_account">¿Ya tienes una cuenta?</string>
+    <string name="sign_in_here">Inicia sesión aquí</string>
+
 </resources>
