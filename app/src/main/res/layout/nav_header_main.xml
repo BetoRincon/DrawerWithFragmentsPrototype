@@ -12,7 +12,9 @@
         android:theme="@style/ThemeOverlay.AppCompat.Dark"
         android:orientation="vertical"
         android:gravity="bottom"
-android:backgroundTint="@android:color/holo_blue_dark">
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:weightSum="3"
+>
 
     <ImageView
             android:layout_width="100dp"
@@ -22,6 +24,7 @@ android:backgroundTint="@android:color/holo_blue_dark">
             android:contentDescription="@string/nav_header_desc"
             android:id="@+id/imageView"
             android:layout_gravity="center"
+            android:layout_weight="1"
     />
 
     <TextView
@@ -32,6 +35,7 @@ android:backgroundTint="@android:color/holo_blue_dark">
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textColor="@android:color/white"
             android:textAlignment="center"
+            android:layout_weight="1"
     />
 
     <TextView
@@ -41,6 +45,9 @@ android:backgroundTint="@android:color/holo_blue_dark">
             android:id="@+id/textView"
             android:textColor="@android:color/white"
             android:layout_gravity="center"
+            android:paddingBottom="5dp"
+            android:layout_weight="1"
+
     />
 
 </LinearLayout>

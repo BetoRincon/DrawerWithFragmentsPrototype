@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+
     <color name="colorAccent">#D81B60</color>
+    <color name="lightBlue">#037bff</color>
+    <color name="deepBlue">#1C3F94</color>
+    <color name="darkBlue">#08122b</color>
+    <color name="paleBlue">#009bd7</color>
+    <color name="mobijobGreen">#C1CD23</color>
+    <color name="secondaryGreen">#63cc77</color>
+    <color name="mobijobWhite">#ffffff</color>
+    <color name="mobijobBlack">#000000</color>
+    <color name="grayOne">#3F3F3F</color>
+    <color name="grayTwo">#EEE</color>
+    <color name="grayThree">#B8B8B8</color>
+    <color name="mobijobGray">#808285</color>
+    <color name="activityBackground">#fbfcfe</color>
+    <color name="scarletRed">#F81934</color>
 </resources>

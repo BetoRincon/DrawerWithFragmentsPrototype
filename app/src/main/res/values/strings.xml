@@ -14,4 +14,12 @@
     <string name="Profile">Mi Perfil</string>
     <string name="Settings">Configuración</string>
     <string name="App_test">Protopipo Mobijob Drawer</string>
+    <string name="txLogin">Iniciar Sesion</string>
+    <string name="fb_sign_in">CONECTARSE CON FACEBOOK</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="not_account">¿No tienes cuenta?</string>
+    <string name="register_here">Regístrate aquí</string>
+    <string name="login_bt">INICIAR SESION</string>
+    <string name="skip">SALTAR</string>
 </resources>
