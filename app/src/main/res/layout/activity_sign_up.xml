@@ -126,7 +126,7 @@
                       android:layout_marginEnd="@dimen/et_form_padding"
                       android:layout_marginStart="@dimen/et_form_padding"
                       android:textSize="@dimen/login_regular_text"
-                      android:id="@+id/et_Password"
+                      android:id="@+id/et_userName"
                       android:gravity="bottom"
             />
 

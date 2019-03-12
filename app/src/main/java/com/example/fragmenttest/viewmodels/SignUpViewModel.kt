@@ -1,13 +1,21 @@
 package com.example.fragmenttest.viewmodels
 
 import android.arch.lifecycle.ViewModel
+import android.util.Log
 
 class SignUpViewModel: ViewModel(){
-    private val userNickName: String? = null
-    private val userName: String? = null
-    private val userSurname: String? = null
-    private val userMail: String? = null
-    private val userPassword: String? = null
-    private val userPasswordConfirm: String? = null
+     var userNickName: String? = null
+     var userName: String? = null
+        set(value) {
+            field = "hola $value-Jobber"
+        }
+     var userSurname: String? = null
+     var userMail: String? = null
+     var userPassword: String? = null
+     var userPasswordConfirm: String? = null
+
+    fun saludar(){
+        Log.d("Test","asdasdasd")
+    }
 
 }
